@@ -2019,6 +2019,19 @@
   content: ""; }
 
 body {
-  background: #e2ebf3; }
+  background-color: #272822;
+  text-align: center; }
+
+.petContainer {
+  width: 200px;
+  height: 100%;
+  background-color: white;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 3px;
+  display: inline-block; }
+  .petContainer i {
+    font-size: 22px;
+    color: #A1D006; }
 
 /*# sourceMappingURL=main.css.map */
